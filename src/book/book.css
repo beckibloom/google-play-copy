@@ -1,0 +1,23 @@
+.book {
+    border: 3px solid salmon;
+    margin:10px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.row-title {
+    font-weight:normal;
+}
+
+div.book > p {
+    font-weight:bold;
+}
+
+div.book > .book_description {
+    font-weight:normal;
+    font-style:italic;
+}
+
+.book_details {
+    color:green;
+}
